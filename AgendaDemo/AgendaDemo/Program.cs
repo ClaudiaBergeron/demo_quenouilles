@@ -14,6 +14,7 @@ namespace AgendaDemo
         [STAThread]
         static void Main()
         {
+            //modification demo sur la branch
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
